@@ -1,1 +1,1 @@
-
+default_app_config = 'videoshare.apps.VideoshareConfig'
